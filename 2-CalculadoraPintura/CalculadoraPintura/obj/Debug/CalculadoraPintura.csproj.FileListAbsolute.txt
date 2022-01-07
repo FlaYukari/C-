@@ -1,0 +1,16 @@
+C:\Users\flayu\OneDrive\Curso\DevMedia\O que é C#\Primeiros Passos com C#\CalculadoraPintura\CalculadoraPintura\bin\Debug\CalculadoraPintura.exe.config
+C:\Users\flayu\OneDrive\Curso\DevMedia\O que é C#\Primeiros Passos com C#\CalculadoraPintura\CalculadoraPintura\bin\Debug\CalculadoraPintura.exe
+C:\Users\flayu\OneDrive\Curso\DevMedia\O que é C#\Primeiros Passos com C#\CalculadoraPintura\CalculadoraPintura\bin\Debug\CalculadoraPintura.pdb
+C:\Users\flayu\OneDrive\Curso\DevMedia\O que é C#\Primeiros Passos com C#\CalculadoraPintura\CalculadoraPintura\obj\Debug\CalculadoraPintura.csproj.AssemblyReference.cache
+C:\Users\flayu\OneDrive\Curso\DevMedia\O que é C#\Primeiros Passos com C#\CalculadoraPintura\CalculadoraPintura\obj\Debug\CalculadoraPintura.csproj.SuggestedBindingRedirects.cache
+C:\Users\flayu\OneDrive\Curso\DevMedia\O que é C#\Primeiros Passos com C#\CalculadoraPintura\CalculadoraPintura\obj\Debug\CalculadoraPintura.csproj.CoreCompileInputs.cache
+C:\Users\flayu\OneDrive\Curso\DevMedia\O que é C#\Primeiros Passos com C#\CalculadoraPintura\CalculadoraPintura\obj\Debug\CalculadoraPintura.exe
+C:\Users\flayu\OneDrive\Curso\DevMedia\O que é C#\Primeiros Passos com C#\CalculadoraPintura\CalculadoraPintura\obj\Debug\CalculadoraPintura.pdb
+C:\Users\flayu\OneDrive\Curso\DevMedia\Primeiros Passos com C#\CalculadoraPintura\CalculadoraPintura\bin\Debug\CalculadoraPintura.exe.config
+C:\Users\flayu\OneDrive\Curso\DevMedia\Primeiros Passos com C#\CalculadoraPintura\CalculadoraPintura\bin\Debug\CalculadoraPintura.exe
+C:\Users\flayu\OneDrive\Curso\DevMedia\Primeiros Passos com C#\CalculadoraPintura\CalculadoraPintura\bin\Debug\CalculadoraPintura.pdb
+C:\Users\flayu\OneDrive\Curso\DevMedia\Primeiros Passos com C#\CalculadoraPintura\CalculadoraPintura\obj\Debug\CalculadoraPintura.csproj.AssemblyReference.cache
+C:\Users\flayu\OneDrive\Curso\DevMedia\Primeiros Passos com C#\CalculadoraPintura\CalculadoraPintura\obj\Debug\CalculadoraPintura.csproj.SuggestedBindingRedirects.cache
+C:\Users\flayu\OneDrive\Curso\DevMedia\Primeiros Passos com C#\CalculadoraPintura\CalculadoraPintura\obj\Debug\CalculadoraPintura.csproj.CoreCompileInputs.cache
+C:\Users\flayu\OneDrive\Curso\DevMedia\Primeiros Passos com C#\CalculadoraPintura\CalculadoraPintura\obj\Debug\CalculadoraPintura.exe
+C:\Users\flayu\OneDrive\Curso\DevMedia\Primeiros Passos com C#\CalculadoraPintura\CalculadoraPintura\obj\Debug\CalculadoraPintura.pdb
